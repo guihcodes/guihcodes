@@ -6,8 +6,6 @@ Welcome to my Github profile, I'm Guilherme a backend software developer passion
     <img src="https://github-readme-stats.vercel.app/api?username=guihcodes&show_icons=true&theme=radical" />    
 </div>
 
-<br/>
-
 ## Languages and Frameworks
 
 Some languages and frameworks that I already used
@@ -21,8 +19,6 @@ Some languages and frameworks that I already used
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
 </span>
 
-<br/>
-
 ## Technologies and Tools
 
 Some technologies and tools that I already used
@@ -34,8 +30,6 @@ Some technologies and tools that I already used
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"  width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
 </span>
-
-<br/>
 
 ## Contact
 
