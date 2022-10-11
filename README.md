@@ -1,6 +1,6 @@
 ## Hello world! 🌎
 
-I'm Guilherme a backend software developer passionate about programming
+Welcome to my Github profile, I'm Guilherme a backend software developer passionate about programming and technology.
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=guihcodes&show_icons=true&theme=radical" />    
